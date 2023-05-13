@@ -1,6 +1,6 @@
 /*
  * code inspiration taken from: https://stackoverflow.com/questions/33487186/swing-timer-stopwatch-in-java
- * adapted to fit this program, not exact copy
+ * adapted to fit this program
  */
 
 //import essentials
